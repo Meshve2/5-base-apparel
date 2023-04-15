@@ -1,7 +1,6 @@
 body{
     color: #F2F2F2;
 }
-
 .head{
     width: 1440px; height: 800px; background-color: #FFF4F4;
     display: flex;
@@ -14,12 +13,10 @@ body{
     padding-top: 65.76px;
     align-items: baseline;
     background-image: url(bg-pattern-desktop.svg);
-    
 }
 .logo{
     width: 158px; height: 33px;
 }
-
 h1{
     color: #CE9898;
     padding-top: 136px;
@@ -28,63 +25,28 @@ h1{
 }
 .black-text{
     color: #423A3A;
-    font-weight: 600; line-height: 71px; letter-spacing: 17.32px; font-family: 'Josefin Sans', sans-serif;
-
-
-}
-
-p{
-    color: #CE9898;  font-weight: 700; font-size: 16px; line-height: 28px; font-family: 'Josefin Sans', sans-serif;
-
-}
-
+    font-weight: 600; line-height: 71px; letter-spacing: 17.32px; font-family: 'Josefin Sans', sans-serif;}
+p{color: #CE9898;  font-weight: 700; font-size: 16px; line-height: 28px; font-family: 'Josefin Sans', sans-serif;}
 .in-div2{
     display: flex;
     justify-content: space-around;
     width: 445px; height: 56px; 
     border-radius: 28px; border: 2px solid #CE9898;
-    cursor: pointer;
-    
-    
-    
-}
-
+    cursor: pointer;}
 .email{
-    
      color: pink; 
      font-size: 16px; font-weight: 600; line-height: 28px;
-      font-family: 'Josefin Sans', sans-serif;
-      
-      cursor: pointer;}
-    
+      font-family: 'Josefin Sans', sans-serif; cursor: pointer;}
 .email:hover{ color: #CE9898; 
     font-size: 16px; font-weight: 600; line-height: 28px;
-     font-family: 'Josefin Sans', sans-serif; opacity: 1;
-     
-}
-
-
-
+     font-family: 'Josefin Sans', sans-serif; opacity: 1;}
 .error{ width: 24px; height: 24px; 
     margin-left: 88px;
-    align-self: center;
-    margin-right: 0;
-}
-
-
-h6{
-    color: #F96464; font-weight: 600; font-size: 13px; line-height: 28px;
-     padding-left: 20px; font-family: 'Josefin Sans', sans-serif;
-
-}
-.in-div3{
-  
-   
-}
-.hero{
-    height: 800px;
-}
-
+    align-self: center;}
+h6{color: #F96464; font-weight: 600; font-size: 13px; line-height: 28px;
+     padding-left: 20px; font-family: 'Josefin Sans', sans-serif;}
+.in-div3{}
+.hero{ height: 800px;}
 button{
    border-radius: 28px;
    background-color: pink;
@@ -92,9 +54,5 @@ button{
   border: 2px solid pink;
   cursor: pointer;
  }
-
 .test{
-    width: 8.84px; height: 17.67px;
-
-
-}
+    width: 8.84px; height: 17.67px;}
